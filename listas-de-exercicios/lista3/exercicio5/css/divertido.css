@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}    
+body{
+    background-color:mintcream;
+    color: white;
+}
+a{
+    border: solid 0.5px gray;
+    border-radius: 16px;
+    padding: 16px;
+    color: blue;
+    background-color: yellow;
+    text-decoration: none;
+}
+img{
+    border: 0.5px solid red;
+    border-radius: 16px;
+    background-color: springgreen;
+}
+h1{
+    color: orange;
+
+
+}
+strong{
+    color: lime;
+}
+p{
+    color: pink;
+}

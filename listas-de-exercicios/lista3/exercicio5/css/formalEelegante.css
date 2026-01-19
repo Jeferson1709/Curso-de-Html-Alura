@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}    
+body{
+    background-color: #bba58f;
+    color: #7b6056;
+}
+img{
+    background-color:#e8d9cd;
+    border: 0.5px solid #7b6056;
+    border-radius: 16px;
+}
+a{
+    border: solid 0.5px #7b6056;
+    border-radius: 16px;
+    padding: 16px;
+    color: #efefe9;
+    background-color: #7b6056;
+    text-decoration: none;
+}
+strong{
+    color: #efefe9;
+}       

@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}    
+body{
+    background-color: black;
+    color: white;
+}
+a{
+    border: solid 0.5px #000000;
+    border-radius: 16px;
+    padding: 16px;
+    color: #000000;
+    background-color: #DBD15C;
+    text-decoration: none;
+}
+img{
+    border: 0.5px solid white;
+    border-radius: 16px;
+}
+strong{
+    color: #DBD15C;
+}
