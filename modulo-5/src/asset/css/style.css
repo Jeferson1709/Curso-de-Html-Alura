@@ -12,6 +12,9 @@ h1{
     /* color do texto */
     color: white;
 }
+strong{
+   color:#DBD15C;
+}
 a{
     color: white;
     text-decoration: none;
